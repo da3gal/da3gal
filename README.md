@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Andre
+## 👋 Hi, I'm Andre!
 
 🎯 A passionate **Data Scientist & Machine Learning Engineer** who loves solving real-world problems through data and deploying intelligent AI solutions.  
 🚀 I enjoy building end-to-end systems — from data wrangling to model deployment.  
