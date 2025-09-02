@@ -1,12 +1,3 @@
-## 👋 Hi, I'm Andre!
-
-🎯 A passionate **Data Scientist & Machine Learning Engineer** who loves solving real-world problems through data and deploying intelligent AI solutions.  
-🚀 I enjoy building end-to-end systems — from data wrangling to model deployment.  
-
----
-
-## 🧰 Languages & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -27,8 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=da3gal&show_icons=true&theme=light" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da3gal&layout=compact&theme=light" height="170"/>
@@ -38,8 +27,6 @@
 </p>
 
 ---
-
-## 🚀 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/andre-daegal)  
 🌐 Portfolio: [daegal.netlify.app](https://daegal.netlify.app/#portfolio)
