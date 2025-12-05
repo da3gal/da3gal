@@ -16,15 +16,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-  <br/><br/>
   ---
-  <br/>
 
   <a href="https://github.com/da3gal">
     <img src="https://streak-stats.demolab.com?user=da3gal&theme=radical&hide_border=true&bg_color=0d1117" height="200" alt="Andre's Streak" />
   </a>
 
-  <br/><br/>
+  ---
 
   <h3>
     💼 <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
