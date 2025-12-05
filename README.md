@@ -1,4 +1,5 @@
-<p align="left">
+<div align="center">
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -14,19 +15,29 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
----
+  <br/><br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=da3gal&show_icons=true&theme=light" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da3gal&layout=compact&theme=light" height="170"/>
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=da3gal&theme=light" height="150"/>
-</p>
+  <a href="https://github.com/da3gal">
+    <img src="https://github-readme-stats.vercel.app/api?username=da3gal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Github Stats" />
+  </a>
+  <a href="https://github.com/da3gal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da3gal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Top Langs" />
+  </a>
 
----
+  <br/>
 
-💼 [LinkedIn](https://www.linkedin.com/in/andre-daegal)  
-🌐 Portfolio: [daegal.netlify.app](https://daegal.netlify.app/#portfolio)
+  <a href="https://github.com/da3gal">
+    <img src="https://streak-stats.demolab.com?user=da3gal&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Streak" />
+  </a>
+
+  <br/><br/>
+  ---
+  <br/>
+
+  <h3>
+    💼 <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
+    🌐 <a href="https://daegal.netlify.app/#portfolio">Portfolio</a>
+  </h3>
+
+</div>
