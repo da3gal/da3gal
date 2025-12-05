@@ -17,23 +17,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
   <br/><br/>
-
-  <a href="https://github.com/da3gal">
-    <img src="https://github-readme-stats.vercel.app/api?username=da3gal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Github Stats" />
-  </a>
-  <a href="https://github.com/da3gal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da3gal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Top Langs" />
-  </a>
-
+  ---
   <br/>
 
   <a href="https://github.com/da3gal">
-    <img src="https://streak-stats.demolab.com?user=da3gal&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Andre's Streak" />
+    <img src="https://streak-stats.demolab.com?user=da3gal&theme=radical&hide_border=true&bg_color=0d1117" height="200" alt="Andre's Streak" />
   </a>
 
   <br/><br/>
-  ---
-  <br/>
 
   <h3>
     💼 <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
