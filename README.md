@@ -22,8 +22,6 @@
     <img src="https://streak-stats.demolab.com?user=da3gal&theme=radical&hide_border=true&bg_color=0d1117" height="200" alt="Andre's Streak" />
   </a>
 
-  ---
-
   <h3>
     💼 <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
     🌐 <a href="https://daegal.netlify.app/#portfolio">Portfolio</a>
