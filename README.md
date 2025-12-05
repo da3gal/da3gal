@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -23,8 +25,8 @@
   </a>
 
   <h3>
-    💼 <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
-    🌐 <a href="https://daegal.netlify.app/#portfolio">Portfolio</a>
+    <a href="https://www.linkedin.com/in/andre-daegal">LinkedIn</a> &nbsp;|&nbsp;
+    <a href="https://daegal.netlify.app/#portfolio">Portfolio</a>
   </h3>
 
 </div>
